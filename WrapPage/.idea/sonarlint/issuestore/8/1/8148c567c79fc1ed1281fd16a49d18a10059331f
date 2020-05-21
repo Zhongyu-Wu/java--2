@@ -1,0 +1,19 @@
+
+C
+java:S2129"!Remove this "Integer" constructor(îî—Ùùÿÿÿÿ8½™İ°¡.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(ó›†ıÿÿÿÿ8Ÿ¯‰±¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“ÒóÔ8¯é°¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ó›†ıÿÿÿÿ8Ÿ¯‰±¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰Ùî±8Ûœÿ°¡.
+X	java:S125"<This block of commented-out lines of code should be removed.(´êò±8”åô°¡.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ûÅÌÀûÿÿÿÿ8öıü°¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ğùÿ8’èŞ°¡.
+>
+java:S2129"!Remove this "Integer" constructor(ü‡Â›8ĞÑİ°¡.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(Ğùÿ8±Èà°¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øé¹Ôøÿÿÿÿ8‰©ğ°¡.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(øé¹Ôøÿÿÿÿ8Ôİõ°¡.

@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ‚°¯ÿÿÿÿÿ8íŸè¸¡.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(æ¯¡å8ñÉÔ±¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áÏ¿–úÿÿÿÿ8±úĞ±¡.
+g
+java:S3027"JPut single-quotes around 'a' to use the faster "lastIndexOf(char)" method.(—é÷Ö8µ Ô¸¡.
+B
+java:S2129" Remove this "String" constructor(—ŸÎÖşÿÿÿÿ8ÌÌÊ±¡.
+h
+java:S3027"FPut single-quotes around 'a' to use the faster "indexOf(char)" method.(áÏ¿–úÿÿÿÿ8±úĞ±¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—é÷Ö8šòÑ¸¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùò¨ùıÿÿÿÿ8¦Ù×¸¡.

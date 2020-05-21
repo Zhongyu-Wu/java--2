@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ŠÒ©
+V
+java:S1854"@Remove this useless assignment to local variable "mainPriority".(ÿ‹Û³
+G
+java:S1481"1Remove this unused "mainPriority" local variable.(ÿ‹Û³
+Q	java:S125"<This block of commented-out lines of code should be removed.(„¦êŠ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŽÅ‡†

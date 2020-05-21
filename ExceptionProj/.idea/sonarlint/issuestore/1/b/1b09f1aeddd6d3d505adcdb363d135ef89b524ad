@@ -1,0 +1,17 @@
+
+X	java:S125
+"<This block of commented-out lines of code should be removed.(»¸¬8à•Û”¡.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùà»™¡.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÒÀ¶™¡.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¬®İ—úÿÿÿÿ8á¾¿™¡.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(„µªË8Öå”¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òğ—Ìüÿÿÿÿ8Ù”à”¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯„÷ö8ÌŠä”¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò­øè8ùà»™¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä—ÄÂ8Ì«ß”¡.
+E
+java:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8á¾¿™¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(á¬Ñ„şÿÿÿÿ8µ‹ã”¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºÔóº8¿­É™¡.

@@ -1,0 +1,7 @@
+
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(©ª€Èøÿÿÿÿ8ë¨µ°¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºîÈÖ8â´°¡.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(òÈ©W8êº·°¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìÂ÷â8Ë«°¡.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(íê­…8¹Ô®°¡.

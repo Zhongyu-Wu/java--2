@@ -1,0 +1,19 @@
+
+e
+java:S2276'"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8Ùë™«£.
+>
+java:S1148>"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(Óºäÿùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(À¤ÙÏ
+\
+java:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+>
+java:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+\
+java:S2142="FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+java:S11178":Rename "balance" which hides the field declared at line 5.(Ö÷ÓY
+O
+java:S1117%":Rename "balance" which hides the field declared at line 5.(Ö÷ÓY
+e
+java:S2276<"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8öò›«£.

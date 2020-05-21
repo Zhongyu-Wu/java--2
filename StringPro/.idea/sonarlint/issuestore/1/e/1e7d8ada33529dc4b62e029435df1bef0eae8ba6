@@ -1,0 +1,8 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(á¡øÿÿÿÿ8úâª¹¡.
+B
+java:S2129	" Remove this "String" constructor(ê˜—®úÿÿÿÿ8‘—¢¹¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÆÖ8‘ÿª¹¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šÅû8úâª¹¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(è«ÈØüÿÿÿÿ8‘ÿª¹¡.

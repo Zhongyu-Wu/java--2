@@ -1,0 +1,18 @@
+
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(á¬Ñ„şÿÿÿÿ8±³—š¡.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ä—ÄÂ8§†‘š¡.
+
+java:S11309"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¬îñéÿÿÿÿÿ8·ğßš¡.
+f
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(¦Œçõÿÿÿÿÿ8ßçš¡.
+a
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(”ı¾8ßçš¡.
+J	java:S108")Either remove or fill this block of code.(ğæ£„şÿÿÿÿ8ßçš¡.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(òğ—Ìüÿÿÿÿ8§†‘š¡.
+]	java:S125."<This block of commented-out lines of code should be removed.(à£Í…üÿÿÿÿ8·ğßš¡.
+X	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8ßçš¡.
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(¬îñéÿÿÿÿÿ8·ğßš¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£Âÿ÷8§†‘š¡.
+E	java:S108")Either remove or fill this block of code.(”ı¾8ßçš¡.
+J	java:S108")Either remove or fill this block of code.(¦Œçõÿÿÿÿÿ8ßçš¡.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(„µªË8§†‘š¡.
